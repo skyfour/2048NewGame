@@ -21,7 +21,7 @@ const (
 )
 
 /**
-去除连接的数字
+找到连接的数字
 */
 func FindList(data [][]int) (bool, map[string]int) {
 
